@@ -15,6 +15,7 @@ Using [AWS](https://aws.amazon.com/) to remote server
 
 Using [Docker](https://www.docker.com/) to make easier to build in remote server 
 
+# installation
 
 ## clone project with terminal 
 ```git clone https://github.com/mkaraa/Vuejs-MovieListing-OmdbAPI.git```
