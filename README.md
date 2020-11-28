@@ -1,7 +1,7 @@
 # movie-listing
 
 # live version is at 
-## http://3.139.66.105:8081/#/
+http://3.139.66.105:8081/#/
 
 ## Project setup
 ```
