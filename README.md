@@ -3,25 +3,8 @@
 # live version is at 
 http://3.139.66.105:8081/#/
 
-## Project setup
-```
-yarn install
-```
+### clone project with terminal ` git clone https://github.com/mkaraa/Vuejs-MovieListing-OmdbAPI.git `
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### install npm dependencies ` npm install `
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### run project ` npm run serve `
