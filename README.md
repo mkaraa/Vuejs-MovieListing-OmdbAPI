@@ -9,8 +9,11 @@ You can search any movies which released in 2020 from [Omdb Database](http://www
 
 Project is build [Vue.js](https://vuejs.org/)
 
-Using [Fomantic-UI](https://fomantic-ui.com/)
+Using [Fomantic-UI](https://fomantic-ui.com/) 
 
+Using [AWS](https://aws.amazon.com/) to remote server
+
+Using [Docker](https://www.docker.com/) to make easier to build in remote server 
 
 
 ## clone project with terminal 
