@@ -1,8 +1,9 @@
 # Movie Listing Project  
 
-! You can search a movies which released in 2020 from [Omdb Database](http://www.omdbapi.com/)
+ You can search a movies which released in 2020 from [Omdb Database](http://www.omdbapi.com/)
 
 Project is build [Vue.js](https://vuejs.org/)
+
 Using [Fomantic-UI](https://fomantic-ui.com/)
 
 ## live version is at 
