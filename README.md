@@ -1,9 +1,5 @@
 # Movie Listing Project  
 
-## Live version is at 
-http://3.139.66.105:8081/#/
-
-
 ## Description
 You can search any movies which released in 2020 from [Omdb Database](http://www.omdbapi.com/)
 
